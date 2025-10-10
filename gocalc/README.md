@@ -75,7 +75,7 @@ go mod init gocalc
 
 ```bash
 git clone https://github.com/VINODvoid/go_projects
-cd gocalc
+cd go_projects/gocalc
 ```
 
 2. Run a calculation:
